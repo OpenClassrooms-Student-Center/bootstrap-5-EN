@@ -1,4 +1,4 @@
-# Cours Bootstrap 5
+# Cours Bootstrap 5 - TO BE LOCALIZED IN EN BY FLORIAN
 
 Bienvenue dans le Github du projet fil rouge "Portfolio" associé au [cours OpenClassrooms sur Bootstrap 5](https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-responsive-avec-bootstrap-4).
 
