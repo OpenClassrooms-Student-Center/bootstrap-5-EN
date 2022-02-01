@@ -1,4 +1,4 @@
-# Cours Bootstrap 5 - TO BE LOCALIZED IN EN BY FLORIAN
+# Create responsive websites efficiently with Bootstrap 5
 
 Welcome in the GitHubt repository of the Portfolio exercise associated to the [OpenClassrooms course on Bootstrap 5](https://openclassrooms.com/en/courses/7655936-create-responsive-websites-efficiently-with-bootstrap-5).
 
