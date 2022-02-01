@@ -7,15 +7,14 @@ Welcome in the GitHubt repository of the Portfolio exercise associated to the [O
 ## Summary
 
 - Part 1 - Learn What Bootstrap Is Used For
- -  Chapter 1 - Get the Most out of This Course
- -  Chapter 2 - Mobility: An Important Factor for Web Users
- -  Chapter 3 - Is Bootstrap Right for You?
- -  Quiz Part 1 - Learn What Bootstrap Is Used For
+  -  Chapter 1 - Get the Most out of This Course   -  Chapter 2 - Mobility: An Important Factor for Web Users
+  -  Chapter 3 - Is Bootstrap Right for You?
+  -  Quiz Part 1 - Learn What Bootstrap Is Used For
 - Part 2 - Create Responsive Layouts
- -  Chapter 1 - Break Down Your Page Structure
- -  Chapter 2 - Implement Your Page Structure
- -  Chapter 3 - Make Your Layout Responsive
- -  Quiz Part 2 - Create Responsive Layouts
+  -  Chapter 1 - Break Down Your Page Structure
+  -  Chapter 2 - Implement Your Page Structure
+  -  Chapter 3 - Make Your Layout Responsive
+  -  Quiz Part 2 - Create Responsive Layouts
 - Part 3 - Display Content Using UI Components
   - Chapter 1 - Customize Your Page
   - Chapter 2 - Create Responsive Navigation
