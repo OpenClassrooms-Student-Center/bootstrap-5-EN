@@ -6,29 +6,31 @@ Welcome in the GitHubt repository of the Portfolio exercise associated to the [O
 
 ## Summary
 
-Part 1 - Learn What Bootstrap Is Used For
-  P1C1 - Get the Most out of This Course
-  P1C2 - Mobility: An Important Factor for Web Users
-  P1C3 - Is Bootstrap Right for You?
-Part 2 - Create Responsive Layouts
-  P2C1 - Break Down Your Page Structure
-  P2C2 - Implement Your Page Structure
-  P2C3 - Make Your Layout Responsive
-Part 3 - Display Content Using UI Components
-  P3C1 - Customize Your Page
-  P3C2 - Create Responsive Navigation
-  P3C3 - Add a Progress Bar Component
-  P3C4 - Structure Your Content with the Card Component
-Part 4 - Add Interactivity to Your Website
-  P4C1 - Add Interactive Components
-  P4C2 - Add Contact Forms
-  P4C3 - Improve User Experience with Modals and Tooltips
-Part 5 - Create Your Own Features and Themes
-  P5C1 - Create Your Own Design Theme
-  P5C2 - Create Your Own Utility Classes with the Bootstrap 5 API
+- Part 1 - Learn What Bootstrap Is Used For
+ -  Chapter 1 - Get the Most out of This Course
+ -  Chapter 2 - Mobility: An Important Factor for Web Users
+ -  Chapter 3 - Is Bootstrap Right for You?
+ -  Quiz Part 1 - Learn What Bootstrap Is Used For
+- Part 2 - Create Responsive Layouts
+ -  Chapter 1 - Break Down Your Page Structure
+ -  Chapter 2 - Implement Your Page Structure
+ -  Chapter 3 - Make Your Layout Responsive
+ -  Quiz Part 2 - Create Responsive Layouts
+- Part 3 - Display Content Using UI Components
+  - Chapter 1 - Customize Your Page
+  - Chapter 2 - Create Responsive Navigation
+  - Chapter 3 - Add a Progress Bar Component
+  - Chapter 4 - Structure Your Content with the Card Component
+- Part 4 - Add Interactivity to Your Website
+  - Chapter 1 - Add Interactive Components
+  - Chapter 2 - Add Contact Forms
+  - Chapter 3 - Improve User Experience with Modals and Tooltips
+- Part 5 - Create Your Own Features and Themes
+  - Chapter 1 - Create Your Own Design Theme
+  - Chapter 2 - Create Your Own Utility Classes with the Bootstrap 5 API
 
 
-> ### Congratulations 🎉 ! You have successfully completely your course on Bootstrap 5
+> ### Congratulations 🎉 ! You have successfully completely the OpenClassrooms course on Bootstrap 5
 
 ## Solutions to exercises
 
