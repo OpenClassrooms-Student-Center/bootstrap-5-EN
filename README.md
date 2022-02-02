@@ -33,7 +33,7 @@ Welcome in the GitHubt repository of the Portfolio exercise associated to the [O
 
 ## Solutions to exercises
 
-All the steps (per chapter) of the portfolio exercise are available here : [solutions](https://openclassrooms-student-center.github.io/bootstrap-5-EN)
+All the steps (per chapter) of the portfolio exercise are available here : [solutions](https://florianvende1985.github.io/bootstrap-5-EN/)
 
 ## Contributing
 
