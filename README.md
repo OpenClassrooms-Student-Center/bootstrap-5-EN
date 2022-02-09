@@ -38,7 +38,7 @@ All the steps (per chapter) of the portfolio exercise are available here : [solu
 ## Contributing
 
 - Benoît Philibert
-- Max Mahmoud Wardeh(https://www.linkedin.com/in/mwardeh/)
+- [Max Mahmoud Wardeh](https://www.linkedin.com/in/mwardeh/)
 - [Luca Bousquet](https://www.linkedin.com/in/lucabousquet/)
 
 
