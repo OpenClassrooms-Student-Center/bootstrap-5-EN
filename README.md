@@ -33,12 +33,12 @@ Welcome in the GitHubt repository of the Portfolio exercise associated to the [O
 
 ## Solutions to exercises
 
-All the steps (per chapter) of the portfolio exercise are available here : [solutions](https://florianvende1985.github.io/bootstrap-5-EN/)
+All the steps (per chapter) of the portfolio exercise are available here : [solutions](https://github.com/OpenClassrooms-Student-Center/bootstrap-5-EN/)
 
 ## Contributing
 
 - Benoît Philibert
-- Max Mahmoud Wardeh
+- Max Mahmoud Wardeh(https://www.linkedin.com/in/mwardeh/)
 - [Luca Bousquet](https://www.linkedin.com/in/lucabousquet/)
 
 
