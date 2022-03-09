@@ -2,7 +2,7 @@
 
 Welcome in the GitHubt repository of the Portfolio exercise associated to the [OpenClassrooms course on Bootstrap 5](https://openclassrooms.com/en/courses/7655936-create-responsive-websites-efficiently-with-bootstrap-5).
 
-![The San Juan Mountains are beautiful!](/docs/img/final.jpg "Screenshot du projet fil rouge \"Portfolio\"")
+![The San Juan Mountains are beautiful!](/docs/img/final.png "Screenshot du projet fil rouge \"Portfolio\"")
 
 ## Summary
 
