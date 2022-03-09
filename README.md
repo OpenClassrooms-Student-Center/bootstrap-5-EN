@@ -1,8 +1,8 @@
 # Create responsive websites efficiently with Bootstrap 5
 
-Welcome in the GitHubt repository of the Portfolio exercise associated to the [OpenClassrooms course on Bootstrap 5](https://openclassrooms.com/en/courses/7655936-create-responsive-websites-efficiently-with-bootstrap-5).
+Welcome to the GitHubt repository of the Portfolio exercise for the [OpenClassrooms course on Bootstrap 5](https://openclassrooms.com/en/courses/7655936-create-responsive-websites-efficiently-with-bootstrap-5).
 
-![The San Juan Mountains are beautiful!](/docs/img/final.png "Screenshot du projet fil rouge \"Portfolio\"")
+![Final Portfolio site!](/docs/img/final.png "Screenshot of the Portfolio project for the course")
 
 ## Summary
 
